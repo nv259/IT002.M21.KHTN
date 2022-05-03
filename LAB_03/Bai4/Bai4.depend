@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1650717697 source:/home/doublemint/Projects/IT002.M21.KHTN/LAB_03/Bai4/main.cpp
+	"Menu.h"
+	<iostream>
+
+1650717413 source:/home/doublemint/Projects/IT002.M21.KHTN/LAB_03/Bai4/src/Menu.cpp
+	"Menu.h"
+	<iostream>
+	<algorithm>
+
+1650717222 /home/doublemint/Projects/IT002.M21.KHTN/LAB_03/Bai4/include/Menu.h
+	"NhanVien.h"
+	<string>
+
+1650716381 /home/doublemint/Projects/IT002.M21.KHTN/LAB_03/Bai4/include/NhanVien.h
+	<string>
+
+1650718030 source:/home/doublemint/Projects/IT002.M21.KHTN/LAB_03/Bai4/src/NhanVien.cpp
+	"NhanVien.h"
+	<string>
+	<time.h>
+	<stdlib.h>
+	<iostream>
+

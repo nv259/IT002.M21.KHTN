@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1647695173 source:/home/doublemint/Projects/IT002.M21.KHTN/March/18/SoPhuc/main.cpp
+	<iostream>
+
+1647696037 source:/home/doublemint/Projects/IT002.M21.KHTN/March/18/SoPhuc/src/SoPhuc.cpp
+	"SoPhuc.h"
+	<iostream>
+
+1647695444 /home/doublemint/Projects/IT002.M21.KHTN/March/18/SoPhuc/include/SoPhuc.h
+

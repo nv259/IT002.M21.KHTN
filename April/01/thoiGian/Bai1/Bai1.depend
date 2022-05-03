@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650735182 source:/home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/Bai1/main.cpp
+	<iostream>
+
+1650737292 source:/home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/Bai1/src/CDate.cpp
+	"CDate.h"
+	<iostream>
+
+1650736663 /home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/Bai1/include/CDate.h
+	<iostream>
+

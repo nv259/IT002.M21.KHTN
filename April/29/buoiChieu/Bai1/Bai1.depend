@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1651216680 source:/home/doublemint/Projects/IT002.M21.KHTN/April/29/ThucHanh/main.cpp
+	"CongTy.h"
+
+1651216611 source:/home/doublemint/Projects/IT002.M21.KHTN/April/29/ThucHanh/src/NhanVien.cpp
+	"NhanVien.h"
+	<iostream>
+
+1651216379 /home/doublemint/Projects/IT002.M21.KHTN/April/29/ThucHanh/include/NhanVien.h
+	<string>
+	<iostream>
+
+1651216635 source:/home/doublemint/Projects/IT002.M21.KHTN/April/29/ThucHanh/src/SanXuat.cpp
+	"SanXuat.h"
+	<iostream>
+
+1651216315 /home/doublemint/Projects/IT002.M21.KHTN/April/29/ThucHanh/include/SanXuat.h
+	"NhanVien.h"
+
+1651216326 /home/doublemint/Projects/IT002.M21.KHTN/April/29/ThucHanh/include/VanPhong.h
+	<iostream>
+	"NhanVien.h"
+
+1651215401 source:/home/doublemint/Projects/IT002.M21.KHTN/April/29/ThucHanh/src/VanPhong.cpp
+	"VanPhong.h"
+	<iostream>
+
+1651216169 source:/home/doublemint/Projects/IT002.M21.KHTN/April/29/ThucHanh/src/CongTy.cpp
+	"CongTy.h"
+
+1651215777 /home/doublemint/Projects/IT002.M21.KHTN/April/29/ThucHanh/include/CongTy.h
+	"SanXuat.h"
+	"VanPhong.h"
+

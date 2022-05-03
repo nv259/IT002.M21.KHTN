@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1647694955 source:/home/doublemint/Projects/IT002.M21.KHTN/March/18/PhanSo/main.cpp
+	"PhanSo.h"
+	<iostream>
+
+1647694514 /home/doublemint/Projects/IT002.M21.KHTN/March/18/PhanSo/include/PhanSo.h
+
+1647695022 source:/home/doublemint/Projects/IT002.M21.KHTN/March/18/PhanSo/src/PhanSo.cpp
+	"PhanSo.h"
+	<algorithm>
+	<iostream>
+

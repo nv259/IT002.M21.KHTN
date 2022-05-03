@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1648174105 source:/home/doublemint/Projects/IT002.M21.KHTN/March/25/DaThuc/main.cpp
+	"DaThuc.h"
+
+1648175429 source:/home/doublemint/Projects/IT002.M21.KHTN/March/25/DaThuc/src/DaThuc.cpp
+	"DaThuc.h"
+	<iostream>
+	<vector>
+	<math.h>
+
+1648175150 /home/doublemint/Projects/IT002.M21.KHTN/March/25/DaThuc/include/DaThuc.h
+	<vector>
+

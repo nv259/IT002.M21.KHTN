@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648804972 source:/home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/Queue/main.cpp
+	<iostream>
+	"Queue.h"
+
+1648804855 source:/home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/Queue/src/Queue.cpp
+	"Queue.h"
+	<iostream>
+
+1648804829 /home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/Queue/include/Queue.h
+

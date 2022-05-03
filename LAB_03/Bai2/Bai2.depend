@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1650703158 source:/home/doublemint/Projects/IT002.M21.KHTN/LAB_03/Bai2/main.cpp
+	"TamGiac.h"
+
+1650702956 source:/home/doublemint/Projects/IT002.M21.KHTN/LAB_03/Bai2/src/ToaDo.cpp
+	"ToaDo.h"
+
+1650702698 /home/doublemint/Projects/IT002.M21.KHTN/LAB_03/Bai2/include/ToaDo.h
+
+1650703200 source:/home/doublemint/Projects/IT002.M21.KHTN/LAB_03/Bai2/src/TamGiac.cpp
+	"TamGiac.h"
+	<iostream>
+	<math.h>
+
+1650702672 /home/doublemint/Projects/IT002.M21.KHTN/LAB_03/Bai2/include/TamGiac.h
+	"ToaDo.h"
+	"string"
+

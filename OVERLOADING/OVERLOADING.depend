@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651374996 source:/home/doublemint/Projects/IT002.M21.KHTN/OVERLOADING/main.cpp
+	<iostream>
+	<iomanip>
+	"CDate.h"
+
+1651378801 /home/doublemint/Projects/IT002.M21.KHTN/OVERLOADING/include/CDate.h
+	<iostream>
+
+1651378630 source:/home/doublemint/Projects/IT002.M21.KHTN/OVERLOADING/src/CDate.cpp
+	"CDate.h"
+	<iomanip>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648970530 source:/home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/List/main.cpp
+	<iostream>
+	"List.h"
+
+1648971270 source:/home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/List/src/List.cpp
+	"List.h"
+
+1648971232 /home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/List/include/List.h
+	<iostream>
+

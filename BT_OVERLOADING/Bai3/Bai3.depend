@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1651504128 source:/home/doublemint/Projects/IT002.M21.KHTN/BT_OVERLOADING/Bai3/main.cpp
+	"LinkList.h"
+
+1651504294 source:/home/doublemint/Projects/IT002.M21.KHTN/BT_OVERLOADING/Bai3/src/Node.cpp
+	"Node.h"
+	<cstddef>
+
+1651500132 /home/doublemint/Projects/IT002.M21.KHTN/BT_OVERLOADING/Bai3/include/Node.h
+
+1651505800 source:/home/doublemint/Projects/IT002.M21.KHTN/BT_OVERLOADING/Bai3/src/LinkList.cpp
+	"LinkList.h"
+
+1651498890 /home/doublemint/Projects/IT002.M21.KHTN/BT_OVERLOADING/Bai3/include/LinkList.h
+	"Node.h"
+	<iostream>
+

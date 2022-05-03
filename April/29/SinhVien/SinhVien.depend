@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1651196369 source:/home/doublemint/Projects/IT002.M21.KHTN/April/29/SinhVien/main.cpp
+	"Data.h"
+
+1651194852 /home/doublemint/Projects/IT002.M21.KHTN/April/29/SinhVien/include/Data.h
+	"SinhVien.h"
+	<iostream>
+
+1651195152 /home/doublemint/Projects/IT002.M21.KHTN/April/29/SinhVien/include/SinhVien.h
+	<string>
+
+1651196054 source:/home/doublemint/Projects/IT002.M21.KHTN/April/29/SinhVien/src/SinhVien.cpp
+	"SinhVien.h"
+	<iostream>
+	<string>
+
+1651196397 source:/home/doublemint/Projects/IT002.M21.KHTN/April/29/SinhVien/src/Data.cpp
+	"Data.h"
+	<string>
+

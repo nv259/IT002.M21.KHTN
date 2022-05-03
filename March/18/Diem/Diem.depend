@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647702227 source:/home/doublemint/Projects/IT002.M21.KHTN/March/18/Diem/src/Diem.cpp
+	"Diem.h"
+	<iostream>
+
+1647701565 /home/doublemint/Projects/IT002.M21.KHTN/March/18/Diem/include/Diem.h
+
+1647702207 source:/home/doublemint/Projects/IT002.M21.KHTN/March/18/Diem/main.cpp
+	"Diem.h"
+	<iostream>
+

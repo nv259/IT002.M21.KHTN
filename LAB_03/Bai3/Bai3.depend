@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1650705643 source:/home/doublemint/Projects/IT002.M21.KHTN/LAB_03/Bai3/main.cpp
+	"Time.h"
+
+1650705722 source:/home/doublemint/Projects/IT002.M21.KHTN/LAB_03/Bai3/src/Time.cpp
+	"Time.h"
+
+1650704250 /home/doublemint/Projects/IT002.M21.KHTN/LAB_03/Bai3/include/Time.h
+	<iostream>
+

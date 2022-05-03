@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651472480 source:/home/doublemint/Projects/IT002.M21.KHTN/BT_OVERLOADING/Bai2/main.cpp
+	"DaThuc.h"
+
+1651472165 source:/home/doublemint/Projects/IT002.M21.KHTN/BT_OVERLOADING/Bai2/src/DaThuc.cpp
+	"DaThuc.h"
+	<algorithm>
+
+1651466737 /home/doublemint/Projects/IT002.M21.KHTN/BT_OVERLOADING/Bai2/include/DaThuc.h
+	<vector>
+	<iostream>
+

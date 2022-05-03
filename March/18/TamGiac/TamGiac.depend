@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1648445779 source:/home/doublemint/Projects/IT002.M21.KHTN/March/18/TamGiac/main.cpp
+	"TamGiac.h"
+	<iostream>
+	<math.h>
+
+1648445990 source:/home/doublemint/Projects/IT002.M21.KHTN/March/18/TamGiac/src/TamGiac.cpp
+	"TamGiac.h"
+	<iostream>
+	<utility>
+	<math.h>
+
+1648446007 /home/doublemint/Projects/IT002.M21.KHTN/March/18/TamGiac/include/TamGiac.h
+	<utility>
+

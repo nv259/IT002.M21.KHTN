@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648797066 source:/home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/Date/main.cpp
+	<iostream>
+
+1648799524 source:/home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/Date/src/Date.cpp
+	"Date.h"
+	<iostream>
+
+1648799805 /home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/Date/include/Date.h
+	<iostream>
+	<fstream>
+

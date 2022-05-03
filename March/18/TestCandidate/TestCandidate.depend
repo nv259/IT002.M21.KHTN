@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1647699130 source:/home/doublemint/Projects/IT002.M21.KHTN/March/18/TestCandidate/main.cpp
+	"TestCandidate.h"
+	<iostream>
+	<string>
+	"Candidate.h"
+
+1647698494 source:/home/doublemint/Projects/IT002.M21.KHTN/March/18/TestCandidate/src/Candidate.cpp
+	"Candidate.h"
+	<string>
+	<iostream>
+
+1647696917 /home/doublemint/Projects/IT002.M21.KHTN/March/18/TestCandidate/include/Candidate.h
+	<string>
+
+1647699221 source:/home/doublemint/Projects/IT002.M21.KHTN/March/18/TestCandidate/src/TestCandidate.cpp
+	"TestCandidate.h"
+	<iostream>
+	"Candidate.h"
+
+1647698072 /home/doublemint/Projects/IT002.M21.KHTN/March/18/TestCandidate/include/TestCandidate.h
+	"Candidate.h"
+

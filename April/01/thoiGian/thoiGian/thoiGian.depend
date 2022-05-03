@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648796372 source:/home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/thoiGian/main.cpp
+	"thoiGian.h"
+	<iostream>
+
+1648796809 /home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/thoiGian/include/thoiGian.h
+
+1648796472 source:/home/doublemint/Projects/IT002.M21.KHTN/April/01/thoiGian/thoiGian/src/thoiGian.cpp
+	"thoiGian.h"
+	<iostream>
+	<iomanip>
+
